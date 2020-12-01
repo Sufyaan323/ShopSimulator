@@ -1,0 +1,10 @@
+C:\Users\Sufyaan\Documents\Studys\BTEC level 3 extended diploma in software engineering\Human-Computer Interaction\Assignments\Assignment 2\Shop Simulator\Shop Simulator\bin\Debug\Shop Simulator.exe.config
+C:\Users\Sufyaan\Documents\Studys\BTEC level 3 extended diploma in software engineering\Human-Computer Interaction\Assignments\Assignment 2\Shop Simulator\Shop Simulator\bin\Debug\Shop Simulator.exe
+C:\Users\Sufyaan\Documents\Studys\BTEC level 3 extended diploma in software engineering\Human-Computer Interaction\Assignments\Assignment 2\Shop Simulator\Shop Simulator\bin\Debug\Shop Simulator.pdb
+C:\Users\Sufyaan\Documents\Studys\BTEC level 3 extended diploma in software engineering\Human-Computer Interaction\Assignments\Assignment 2\Shop Simulator\Shop Simulator\obj\Debug\Shop Simulator.csprojAssemblyReference.cache
+C:\Users\Sufyaan\Documents\Studys\BTEC level 3 extended diploma in software engineering\Human-Computer Interaction\Assignments\Assignment 2\Shop Simulator\Shop Simulator\obj\Debug\Shop_Simulator.Form1.resources
+C:\Users\Sufyaan\Documents\Studys\BTEC level 3 extended diploma in software engineering\Human-Computer Interaction\Assignments\Assignment 2\Shop Simulator\Shop Simulator\obj\Debug\Shop_Simulator.Properties.Resources.resources
+C:\Users\Sufyaan\Documents\Studys\BTEC level 3 extended diploma in software engineering\Human-Computer Interaction\Assignments\Assignment 2\Shop Simulator\Shop Simulator\obj\Debug\Shop Simulator.csproj.GenerateResource.cache
+C:\Users\Sufyaan\Documents\Studys\BTEC level 3 extended diploma in software engineering\Human-Computer Interaction\Assignments\Assignment 2\Shop Simulator\Shop Simulator\obj\Debug\Shop Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Sufyaan\Documents\Studys\BTEC level 3 extended diploma in software engineering\Human-Computer Interaction\Assignments\Assignment 2\Shop Simulator\Shop Simulator\obj\Debug\Shop Simulator.exe
+C:\Users\Sufyaan\Documents\Studys\BTEC level 3 extended diploma in software engineering\Human-Computer Interaction\Assignments\Assignment 2\Shop Simulator\Shop Simulator\obj\Debug\Shop Simulator.pdb
