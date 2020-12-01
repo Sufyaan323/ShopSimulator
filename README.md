@@ -1,4 +1,4 @@
 # ShopSimulator
 A game created in c# for an assignment with Visual Studio.
-/n
+<br />
 ![](Images/ShopSimulator.png)
