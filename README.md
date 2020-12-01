@@ -1,4 +1,4 @@
 # ShopSimulator
-A game created in c# for an assignment
-The program was created with Visual Studio
+A game created in c# for an assignment with Visual Studio.
+/n
 ![](Images/ShopSimulator.png)
